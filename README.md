@@ -1,4 +1,4 @@
-[tool / workflow name]
+Biocommons utilities 
 ==============
 
 > ## Delete this section when the first version of the documentation is complete
@@ -13,7 +13,7 @@
 
 ---
 
-# General recommendations for using [tool / workflow name]
+# General recommendations
 
 > Recommendations on using the workflow: for example, based on data set size, infrastructure suitability.
 
